@@ -36,3 +36,5 @@ Se implementaron **pruebas de integración** para la entidad **Vet (Veterinario)
 ---
 
 **Tecnologías:** Spring Boot, JPA, H2, Lombok, MapStruct, JUnit 5, MockMvc
+--
+**Autor:** EmersonFQ07
